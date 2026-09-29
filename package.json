@@ -1,0 +1,7 @@
+{
+  "name": "vura-celsian-hello",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "@celsian/core": "^0.6.5" }
+}
